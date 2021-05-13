@@ -2,7 +2,7 @@
   Desafio Calculadora Capgemini.
 </h3>
 
-<p align="center">
+<p align="justify">
 CConsidere os seguintes critérios fictícios para desenvolver a calculadora de alcance de anúncio:
 Baseados em dados de análise de anúncios anteriores, a agência tem os seguintes dados:
 
