@@ -1,5 +1,5 @@
 <h3 align="center">
-  Desafio Calculadora Capgemini.
+  Desafio Calculadora.
 </h3>
 
 <p align="justify">
