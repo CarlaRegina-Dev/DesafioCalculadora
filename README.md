@@ -13,7 +13,7 @@ Baseados em dados de análise de anúncios anteriores, a agência tem os seguint
 •	o mesmo anúncio é compartilhado no máximo 4 vezes em sequência
 
  
-Crie um script em sua linguagem de programação preferida que receba o valor investido em reais e retorne uma projeção aproximada da quantidade máxima de pessoas que visualizarão o mesmo anúncio (considerando o anúncio original + os compartilhamentos)</p>
+`Crie um script em sua linguagem de programação preferida que receba o valor investido em reais e retorne uma projeção aproximada da quantidade máxima de pessoas que visualizarão o mesmo anúncio (considerando o anúncio original + os compartilhamentos)`</p>
  
 
 ## Tecnologias Utilizadas:
